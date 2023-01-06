@@ -1,4 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wong801&theme=tokyo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wong801&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=Wong801&show_icons=true&theme=tokyonight
 
 <!--
 **Wong801/Wong801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
