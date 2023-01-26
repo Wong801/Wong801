@@ -34,6 +34,12 @@
 
 </p>
 
+<br />## 📕 My Badges:
+<p align="center">
+<iframe src="https://api.badgr.io/public/assertions/13GA2UkkRl6Kf-pUlkJAIg?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=catur.wong123%40gmail.com" title="Badge: Certified Vue Developer" style="width: 330px; height: 191px; border: 0px;"></iframe>
+
+</p>
+
 <br />
 
 ## :trophy: My Github Stats:
