@@ -3,7 +3,7 @@
 
 ## 💻 I'm a Fullstack Web Developer
 
-- 🔭 I’m currently working at [Pandatech](https://www.pandatech.io) Company as a Software Engineer.
+- 🔭 I’m currently working at [Finsoft](https://www.finsoft.id) Company as a Backend Developer.
 - 🌱 I’m currently learning Golang. 
 - 💬 Ask me about anything
 
