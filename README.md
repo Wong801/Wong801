@@ -3,7 +3,7 @@
 
 ## 💻 I'm a Fullstack Web Developer
 
-- 🔭 I’m currently working at [Grosirone](https://grosir.one) Company as a Backend Developer.
+- 🔭 I’m currently looking for job as Software Engineer.
 - 🌱 I’m currently learning Golang. 
 - 💬 Ask me about anything
 
